@@ -25,6 +25,11 @@ I created this repository to collect links that I find useful in the field of fr
 [basic_thresholding](./basic_thresholding.py)
 
 [video_read_write_and_process](./video_read_write_and_process.py)
+  
+[changing_colorspace](./changing_colorspace.py)
 
+[geometric](./geometric.py)
+
+[roi](./roi.py)
 
 
