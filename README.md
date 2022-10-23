@@ -6,6 +6,8 @@ The main picture we used:
 
 ![](img/resim.jpg)
 
+This photo is from 1970 of the Hacibaba Tea Garden and the old Üsküdar-Besiktas marine engines
+
 ### Basic Operations
 [load_image](./load_image.py)
 
