@@ -1,6 +1,6 @@
 # OpenCV
 
-I created this repository to collect the road maps I made for free and the codes I wrote that I found useful in the source code area for OpenCV. I will update it regularly!
+I am sharing this repository for free with the codes I have written for OpenCV. I will update it regularly!
 
 The main picture we used:
 
