@@ -99,3 +99,23 @@ This photo is from 1970 of the Hacibaba Tea Garden and the old Üsküdar-Besikta
 ### Grabcut: Changing the Background
 [grabcut_background_change](./grabcut_background_change.py)
 
+### Adding Noise to the Image
+[image_noise](./image_noise.py)
+
+### Image Sharpening
+[image_sharpening](./image_sharpening.py)
+
+### Harris Corner Detection Method
+[corner_detection_harris](./corner_detection_harris.py)
+
+### Shi-Tomas Corner Detection Method
+[corner_detection_shi_thomas](./corner_detection_shi_thomas.py)
+
+### Subpixel Corner Detection Method
+[corner_detection_sub_pixel](./corner_detection_sub_pixel.py)
+
+### Pedestrian Detection with HOG
+[hog](./hog.py)
+
+### Object Detection with Template Matching
+[template_matching](./template_matching.py)
