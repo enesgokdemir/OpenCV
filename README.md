@@ -1,6 +1,6 @@
 # OpenCV
 
-I'm sharing this repository for free with the codes. I have written for OpenCV. I will update it regularly!
+I'm sharing this repository for free with the codes. I've written for OpenCV. I will update it regularly!
 
 The main picture we used:
 
