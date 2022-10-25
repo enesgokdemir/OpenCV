@@ -119,3 +119,18 @@ This photo is from 1970 of the Hacibaba Tea Garden and the old Üsküdar-Besikta
 
 ### Object Detection with Template Matching
 [template_matching](./template_matching.py)
+
+### QR Code Detection
+[qrcode_detection](./qrcode_detection.py)
+
+### Image Classification with DNN
+[image_classification_dnn](./image_classification_dnn.py)
+
+### Object Recognition with DNN and SSD Methods
+[dnn_single_image](./dnn_single_image.py)
+
+### Real-Time Object Recognition with DNN and SSD Methods
+[real_time_detection](./real_time_detection.py)
+
+### Facial Recognition Based on Deep Neural Networks
+[video_face_detection](./video_face_detection.py)
