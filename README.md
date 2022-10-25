@@ -126,6 +126,8 @@ This photo is from 1970 of the Hacibaba Tea Garden and the old Üsküdar-Besikta
 ### Image Classification with DNN
 [image_classification_dnn](./image_classification_dnn.py)
 
+ Caffe framework models: [bvlc_googlenet.caffemodel](http://dl.caffe.berkeleyvision.org/bvlc_googlenet.caffemodel)
+
 ### Object Recognition with DNN and SSD Methods
 [dnn_single_image](./dnn_single_image.py)
 
